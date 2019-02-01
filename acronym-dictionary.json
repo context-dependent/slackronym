@@ -1,10 +1,12 @@
 {
-	"CHP": "Community Healing Project (City of Toronto)",
+	"CELP": "Community Employment Loan Program (Social Capital Partners)",
+    "CHP": "Community Healing Project (City of Toronto)",
     "EAS": "Employment Assistance Services (Manitoba)",
     "EI": "Employment Insurance (Canada)",
     "EIA": "Employment and Income Assistance (Manitoba)",
     "ESIA": "Employment Services and Income Assistance (Nova Scotia)",
     "FSC": "Future Skills Centre",
+	"HFH": "Habitat for Humanity",
     "HNS": "Housing Nova Scotia",
     "OCWI": "Ontario Centre for Workforce Innovation",
     "ODSP": "Ontario Disability Support Program",
@@ -13,11 +15,12 @@
     "MCCSS": "Ministry of Children, Community and Social Services (Ontario)",
     "MET": "Ministry of Education and Training (Manitoba)",
     "MTCU": "Ministry of Training, Colleges, and Universities (Ontario)",
+    "SCP": "Social Capital Partners",
     "SDFA": "Social Development Finance and Administration (City of Toronto)",
     "TESS": "Toronto Employment and Social Services",
     "TYES": "Toronto Youth Equity Strategy (City of Toronto)",
     "TYPE": "Toronto Youth Partnerships & Employment (City of Toronto)",
     "UWGT": "United Way Greater Toronto",
     "YEP": "Youth Employment Partnerships (City of Toronto)",
-	"YSS": "Youth Success Strategy (United Way Greater Toronto)"
+    "YSS": "Youth Success Strategy (United Way Greater Toronto)",
 }
