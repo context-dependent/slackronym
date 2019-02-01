@@ -9,5 +9,15 @@
     "HNS": "Housing Nova Scotia",
     "SDFA": "Social Development Finance and Administration (City of Toronto)",
     "EIA": "Employment and Income Assistance (Manitoba)",
-    "EAS": "Employment Assistance Services (Manitoba)"
+    "EAS": "Employment Assistance Services (Manitoba)",
+	"EI":"Employment Insurance (Canada)",
+	"OW":"Ontario Works",
+	"ODSP":"Ontario Disability Support Program",
+	"TYES":"Toronto Youth Equity Strategy (City of Toronto)",
+	"CHP":"Community Healing Project (City of Toronto)",
+	"YEP":"Youth Employment Partnerships (City of Toronto)",
+	"TESS":"Toronto Employment and Social Services",
+	"UWGT":"United Way Greater Toronto",
+	"YSS":"Youth Success Strategy (United Way Greater Toronto)",
+	"TYPE":"Toronto Youth Partnerships & Employment (City of Toronto)"
 }
