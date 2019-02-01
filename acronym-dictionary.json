@@ -1,6 +1,7 @@
 {
 	"CELP": "Community Employment Loan Program (Social Capital Partners)",
     "CHP": "Community Healing Project (City of Toronto)",
+    "CSR": "Customer Service Results (OTEC)",
     "EAS": "Employment Assistance Services (Manitoba)",
     "EI": "Employment Insurance (Canada)",
     "EIA": "Employment and Income Assistance (Manitoba)",
@@ -22,5 +23,5 @@
     "TYPE": "Toronto Youth Partnerships & Employment (City of Toronto)",
     "UWGT": "United Way Greater Toronto",
     "YEP": "Youth Employment Partnerships (City of Toronto)",
-    "YSS": "Youth Success Strategy (United Way Greater Toronto)",
+    "YSS": "Youth Success Strategy (United Way Greater Toronto)"
 }
