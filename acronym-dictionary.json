@@ -26,5 +26,10 @@
     "TYPE": "Toronto Youth Partnerships & Employment (City of Toronto)",
     "UWGT": "United Way Greater Toronto",
     "YEP": "Youth Employment Partnerships (City of Toronto)",
-    "YSS": "Youth Success Strategy (United Way Greater Toronto)"
+    "YSS": "Youth Success Strategy (United Way Greater Toronto)",
+	"IA":"Income Assistance (Nova Scotia)",
+	"ESIA":"Employment Support & Income Assistance (Nova Scotia)",
+	"NHS":"National Housing Strategy (CMHC)",
+	"CMHC":"Canada Mortgage and Housing Corporation",
+	"PVSC":"Property Valuation Services Corporation (Nova Scotia)"
 }
